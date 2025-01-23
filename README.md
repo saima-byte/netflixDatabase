@@ -43,6 +43,6 @@
 <h2>Contact</h2>
 <p>If you have any questions, feel free to reach out:</p>
 <ul>
-    <li><strong>Email</strong>: saimabatool3102@gmail@.com</li>
+    <li><strong>Email</strong>: saimabatool3102@gmail.com</li>
     <li><strong>GitHub</strong>: <a href="https://github.com/saima-byte">Saima Batool</a></li>
 </ul>
