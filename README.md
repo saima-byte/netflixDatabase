@@ -46,6 +46,3 @@
     <li><strong>Email</strong>: saimabatool3102@gmail@.com</li>
     <li><strong>GitHub</strong>: <a href="https://github.com/saima-byte">your-username</a></li>
 </ul>
-
-<hr>
-<p>Feel free to customize this <code>README.md</code> file further to suit your project's needs!</p>
