@@ -40,9 +40,6 @@
     <li>Submit a pull request with a detailed explanation of your changes.</li>
 </ol>
 
-<h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-
 <h2>Contact</h2>
 <p>If you have any questions, feel free to reach out:</p>
 <ul>
