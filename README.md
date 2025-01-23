@@ -46,8 +46,8 @@
 <h2>Contact</h2>
 <p>If you have any questions, feel free to reach out:</p>
 <ul>
-    <li><strong>Email</strong>: your-email@example.com</li>
-    <li><strong>GitHub</strong>: <a href="https://github.com/your-username">your-username</a></li>
+    <li><strong>Email</strong>: saimabatool3102@gmail@.com</li>
+    <li><strong>GitHub</strong>: <a href="https://github.com/saima-byte">your-username</a></li>
 </ul>
 
 <hr>
