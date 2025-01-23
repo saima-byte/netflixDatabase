@@ -27,3 +27,28 @@
     <li><strong>Import the dataset</strong>:
         <p>Use the database tool or a command-line utility to import the CSV file into the appropriate table. For example:</p>
         <pre><code>LOAD DATA INFILE 'path_to_your_csv_file.csv'
+        <h2>Example Queries</h2>
+<ul>
+    <li><strong>Top 10 Most Popular Genres</strong>:
+        <pre><code>SELECT genre, COUNT(*) AS count
+        <h2>Contributing</h2>
+<p>Contributions are welcome! If you would like to contribute, please:</p>
+<ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch for your feature/bug fix.</li>
+    <li>Commit your changes and push the branch.</li>
+    <li>Submit a pull request with a detailed explanation of your changes.</li>
+</ol>
+
+<h2>License</h2>
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+<h2>Contact</h2>
+<p>If you have any questions, feel free to reach out:</p>
+<ul>
+    <li><strong>Email</strong>: your-email@example.com</li>
+    <li><strong>GitHub</strong>: <a href="https://github.com/your-username">your-username</a></li>
+</ul>
+
+<hr>
+<p>Feel free to customize this <code>README.md</code> file further to suit your project's needs!</p>
